@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Razal-Loop
-- 👀 I’m interested in Cyber Security , BlockChain and DevOps !
-- 🌱 I’m currently learning C sharp and Asp.NET Core.
-- 💞️ I’m looking to collaborate on BlockChain projects .
+- 👀 I’m interested in Cyber Security , BlockChain and AI/ML.
+- 🌱 I’m currently learning Python and AI Automation 
+- 💞️ I’m looking to collaborate on BlockChain, AI/ML and Cyber Security projects .
 - 📫 Email and Socials are linked where you can contact me .
 
 - ⚡ Fun fact: i am a newbie.
