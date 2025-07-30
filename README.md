@@ -18,7 +18,7 @@
 
 💼 Experiences  
 
-1. MyMeds Brooklyn Care (Full-Stack Developer)**  
+1. Pharmacy Web APP (CMS) (Full-Stack Developer)**  
 - Built a **HIPAA-compliant pharmacy web platform** using **React + Vite, Node.js + Express, Supabase (Postgres)**  
 - Developed **dynamic shop module** (products, categories, filters) and integrated admin features  
 - Focused on **data security, performance optimization, and SEO**  
