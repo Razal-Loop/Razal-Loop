@@ -16,17 +16,17 @@
 - 📫 Email and socials are linked where you can contact me  
 - ⚡ Fun fact: **I’m a newbie who loves learning and building cool stuff**  
 
-💼 Experiences  
+💼 **Experiences**
 
-1. Pharmacy Web APP (CMS) (Full-Stack Developer)**  
+1. **Pharmacy Web APP (CMS) (Full-Stack Developer)**  
 - Built a **HIPAA-compliant pharmacy web platform** using **React + Vite, Node.js + Express, Supabase (Postgres)**  
 - Developed **dynamic shop module** (products, categories, filters) and integrated admin features  
-- Focused on **data security, performance optimization, and SEO**  
+- Focused on **data security, performance optimization, and  Basic SEO**  
 
-2. Krypto WorX (Blockchain Developer)**  
+2. **Krypto WorX (Blockchain Developer)**  
 - Developed a **crypto exchange platform** with Node.js backend and secure APIs  
 - Worked with **smart contracts** and **wallet integrations**  
 
-3. AI & Automation Projects**  
+3. **AI & Automation Projects**  
 - Building AI agents and automations with tools like **n8n**  
 - Focused on **AI-powered lead generation and process automation**  
