@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Python** and **AI Automation**  
 - 💞️ I’m looking to collaborate on **Blockchain, AI/ML, and Cyber Security projects**  
 - 📫 Email and socials are linked where you can contact me  
-- ⚡ Fun fact: **I’m a newbie who loves learning and building cool stuff**  
+- ⚡ Fun fact: **I’m a newbie who loves learning and building cool stuff doing Vibe Coding**  
 
 💼 **Experiences**
 
