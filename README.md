@@ -88,8 +88,15 @@
 
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Razal-Loop&show_icons=true&theme=tokyonight&hide_title=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Razal-Loop&theme=tokyonight_duo" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razal-Loop&layout=compact&theme=tokyonight" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Razal-Loop&show_icons=true&theme=tokyonight&hide_title=true" alt="Razal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Razal-Loop&theme=tokyonight_duo" alt="Razal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razal-Loop&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razal-Loop&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
 
 📫 Connect With Me
 🌐 Upwork Profile
