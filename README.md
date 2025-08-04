@@ -23,44 +23,70 @@
 - 📫 Email and socials are linked where you can contact me  
 - ⚡ Fun fact: **I’m a newbie who loves learning and building cool stuff doing Vibe Coding**  
 
-💼 **Experiences**
+## 💼 Experience
 
-1. **Pharmacy Web APP (CMS) (Full-Stack Developer)**  
-- Built a **HIPAA-compliant pharmacy web platform** using **React + Vite, Node.js + Express, Supabase (Postgres)**  
-- Developed **dynamic shop module** (products, categories, filters) and integrated admin features  
-- Focused on **data security, performance optimization, and  Basic SEO**  
+---
 
-2. **Krypto WorX (Blockchain Developer)**  
-- Developed a **crypto exchange platform** with Node.js backend and secure APIs  
-- Worked with **smart contracts** and **wallet integrations**  
+### 📦 Pharmacy Web App (CMS) — *Full Stack Developer*  
+> 🛠 **Stack:** React + Vite · Node.js + Express · Supabase (Postgres)
 
-3. **AI & Automation Projects**  
-- Building AI agents and automations with tools like **n8n**  
-- Focused on **AI-powered lead generation and process automation**  
-<!-- Razal-Loop GitHub Profile README -->
+- 🏥 Built a **HIPAA-compliant pharmacy platform** for appointments, refills, and inventory  
+- 🛍 Developed a **dynamic product module** with secure admin panel  
+- 🚀 Implemented **SEO fundamentals**, performance tuning, and authentication
 
-💼**Experience**
+---
 
-📦 **Pharmacy Web App (CMS)**
-HIPAA-compliant pharmacy platform built with React + Vite, Node.js + Express, and Supabase
-Included product management, appointments, refills, secure admin access/
+### 💹 Krypto WorX — *Blockchain Developer*  
+> 🔐 **Stack:** Node.js · Smart Contracts · Wallet APIs
 
-💹 **Krypto WorX – Crypto Exchange Platform**
-Developed backend using Node.js, integrated wallet support, smart contracts, and secure APIs.
+- 💱 Developed a **crypto exchange backend** with wallet and contract integrations  
+- 📡 Built secure REST APIs and transaction systems  
+- 🧪 Tested and deployed on-chain logic
 
-🤖 **AI & Automation Projects**
-Working with n8n, OpenAI, and automation tools for scraping, lead generation, and internal workflows.
+---
 
-🧰 **Tech Toolbox**
+### 🤖 AI & Automation Projects — *AI Automation Engineer*  
+> ⚙️ **Stack:** n8n · OpenAI · Scraping Tools
 
-⚙️ Languages & Frameworks:
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,vite,html,css,tailwind,bootstrap,python,java,cpp" /><br>
+- 🤖 Built intelligent agents and low-code automations for internal workflows  
+- 📈 Created systems for **AI-powered lead generation and CRM integration**  
+- 🔄 Focused on scalable, webhook-based pipelines
 
-🧠 AI / Blockchain / Automation:
-<img src="https://skillicons.dev/icons?i=web3,solidity,mongodb,postgres,docker,git,github" />
+---
 
-🛠 Tools:
-n8n, OpenAI, Firebase, Supabase, VS Code, Framer, Canva, Vercel, Netlify
+## 🧰 Tech Toolbox
+
+---
+
+### ⚙️ Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,vite,html,css,tailwind,bootstrap,python,java,cpp&theme=light" alt="Languages" />
+</p>
+
+---
+
+### 🧠 AI · Blockchain · Automation  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=web3,solidity,mongodb,postgres,docker,git,github&theme=light" alt="Blockchain & Automation" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-Postgres-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Hosting-black?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-Design-0A0A23?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Razal-Loop&show_icons=true&theme=tokyonight&hide_title=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Razal-Loop&theme=tokyonight_duo" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razal-Loop&layout=compact&theme=tokyonight" /> </p>
