@@ -68,7 +68,7 @@ n8n, OpenAI, Firebase, Supabase, VS Code, Framer, Canva, Vercel, Netlify
 📫 Connect With Me
 🌐 Upwork Profile
 
-📧 Email: razaldevs@gmail.com
+📧 Email: official.razalali@gmail.com
 
 💬 Telegram / Discord / Twitter: DM for collab or consulting
 
