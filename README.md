@@ -80,4 +80,19 @@ n8n, OpenAI, Firebase, Supabase, VS Code, Framer, Canva, Vercel, Netlify
 💡 Motto
 “Don’t let anyone tell you you can’t. If you want something, go get it. Period.”
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2EA,100:000000&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontColor=ffffff" /> </p> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2EA,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <b><i>⚡ Blockchain Projects &nbsp; | &nbsp; 🤖 AI & n8n Automation &nbsp; | &nbsp; 🧑‍💻 Full Stack Development</i></b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2EA&center=true&vCenter=true&multiline=true&width=600&lines=Building+secure+Blockchain+dApps;Automating+tasks+with+AI+%26+n8n;Crafting+end-to-end+web+experiences" alt="Skills Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Stay+curious+%F0%9F%8C%9F+Keep+building.;Every+line+of+code+is+a+step+towards+mastery.;Learn%2C+Build%2C+Repeat+%E2%9C%A8;Your+future+self+will+thank+you+for+starting+today." alt="Motivational typing animation" />
+</p>
+
