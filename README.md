@@ -15,7 +15,7 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-🔗-gray?style=flat-square) 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-🤖-yellow?style=flat-square)
 
-- 💻 **Full-Stack & Web App Developer** (React⚛️, Node🌐, Express🚀, Vite⚡)  
+- 💻 **Full-Stack & Web App Developer** (React⚛️, Node🌐, Express🚀, Vite⚡, CSharp C#)  
 - 🔗 **Upwork:** [Check my profile](https://www.upwork.com/freelancers/~01be37a636d42a689e?mp_source=share)  
 - 👀 I’m interested in **Cyber Security**, **Blockchain**, and **AI/ML**  
 - 🌱 I’m currently learning **Python** and **AI Automation**  
@@ -28,7 +28,7 @@
 ---
 
 ### 📦 Pharmacy Web App (CMS) — *Full Stack Developer*  
-> 🛠 **Stack:** React + Vite · Node.js + Express · Supabase (Postgres)
+> 🛠 **Stack:** React + Vite · Node.js + Express · Supabase (Postgres) 
 
 - 🏥 Built a **HIPAA-compliant pharmacy platform** for appointments, refills, and inventory  
 - 🛍 Developed a **dynamic product module** with secure admin panel  
