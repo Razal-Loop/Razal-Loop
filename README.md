@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2EA&center=true&vCenter=true&multiline=true&width=600&lines=Building+secure+Blockchain+dApps;Automating+tasks+with+AI+%26+n8n;Crafting+end-to-end+web+experiences" alt="Skills Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F2EA&center=true&vCenter=true&multiline=true&width=600&lines=Building+secure+Blockchain+dApps;Automating+tasks+with+AI+%26+n8n;Crafting+end-to-end+web+experiences" alt="Skills Typing animation" />
 </p>
 
 <p align="center">
